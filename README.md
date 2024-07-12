@@ -1,2 +1,1 @@
-# SnakeGameXYZ
-PersoanlProject_SnakeGame
+# PersonalProjects
